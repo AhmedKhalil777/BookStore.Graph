@@ -66,7 +66,7 @@ namespace BookStore.Graph.API
                 endpoints.MapControllers();
             });
 
-            userManager.SeedData(db);
+           // userManager.SeedData(db);
 
     
 
